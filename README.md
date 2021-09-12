@@ -15,4 +15,4 @@ Automate an entry/exit doorway to a customer site that senses customers automati
 
 REFER to the document for the pictures of the final product and test scenarios
 
-
+Fabrication of the PCB Design was conducted at the very end. 
